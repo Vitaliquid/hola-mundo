@@ -2,4 +2,4 @@
 Mi primer repositorio.
 
 Autor: Ricardo G.
-Fecha: 12 de febrero 2022
+Fecha: 12 de febrero.
